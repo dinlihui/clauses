@@ -1,6 +1,5 @@
 {
   "usingComponents": {
-    "x-playlist":"components/playlist/playlist"
-  },
-  "navigationBarTitleText":"音乐"
+    "x-playlist":"/components/playlist/playlist"
+  }
 }

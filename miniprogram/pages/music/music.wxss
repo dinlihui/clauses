@@ -1,5 +1,5 @@
 /* pages/music/music.wxss */
-.swiper{
+.swipper{
   height: 340rpx;
 }
 .img{
@@ -11,7 +11,7 @@
   margin-left: 20rpx;
 }
 .playlist-container{
-  display: flex;
+  display:flex;
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
